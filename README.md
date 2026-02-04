@@ -105,6 +105,10 @@ nats kv put metrics_domains "example.com" '{
 }'
 ```
 
+## Sponsor
+
+This project is sponsored by [dave.dev](https://dave.dev) and is used in production on dave.dev and a handful of other sites.
+
 ## License
 
 Apache 2.0 - See [LICENSE](./LICENSE)

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 60" width="200" height="60">
+  <!-- Bar chart icon -->
+  <rect x="10" y="35" width="8" height="15" rx="1" fill="#16a34a"/>
+  <rect x="22" y="25" width="8" height="25" rx="1" fill="#16a34a"/>
+  <rect x="34" y="15" width="8" height="35" rx="1" fill="#16a34a"/>
+
+  <!-- Text -->
+  <text x="52" y="42" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="600" fill="#1f2937">
+    metrics<tspan fill="#16a34a">.gmbh</tspan>
+  </text>
+</svg>
