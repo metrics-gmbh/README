@@ -2,9 +2,9 @@
 
 A privacy-focused, self-hosted web analytics platform built on [NATS](https://nats.io).
 
-![Main View](./terminal-ui/initial_view.png)
+![Main View](./initial_view.png)
 
-![Graph View](./terminal-ui/graph_view.png)
+![Graph View](./graph_view.png)
 
 ## Architecture
 
@@ -24,9 +24,9 @@ A privacy-focused, self-hosted web analytics platform built on [NATS](https://na
 
 | Component | Description |
 |-----------|-------------|
-| [**api/**](./api/) | HTTP service that receives web visit events and stores them in NATS |
-| [**terminal-ui/**](./terminal-ui/) | Real-time terminal dashboard for viewing analytics |
-| [**js/**](./js/) | Lightweight JavaScript tracker for websites |
+| [**api**](https://github.com/metrics-gmbh/api) | HTTP service that receives web visit events and stores them in NATS |
+| [**terminal-ui**](https://github.com/metrics-gmbh/terminal-ui) | Real-time terminal dashboard for viewing analytics |
+| [**js**](https://github.com/metrics-gmbh/js) | Lightweight JavaScript tracker for websites |
 
 ## Quick Start
 
